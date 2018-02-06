@@ -60,7 +60,7 @@ Please look through the list below and offer help where you can:
 #### Community Bootstrapping Team
 As was just mentioned, initially we are doing a lot of scaffolding work. We need people to help facilitate this and make the groups user experience as seamless as possible. This will be things like writing/formatting/editing best practice guides for the tools we use, for how to start projects, for how to schedule meetings, etc.
 
-If you can help with this, please state your interest in [#community-management](https://dappsociety.slack.com/messages/C93ARTCGG/)
+If you can help with this, please state your interest in [#community-management][com-management]
 
 #### Team for discussing group governance smart contracts
 If you can help with this, please state your interest in [#group-contracts](https://dappsociety.slack.com/messages/C9403E24A/). We will schedule a formal first meeting for this probably sometime next week (our discussion will be influenced by what I hear from the Colony.io team)
@@ -71,7 +71,7 @@ To show interest, post in the #access-requests channel that you would like to ha
 #### Trello Board Organization
 Keeping these boards up to date and useful will be a group effort. There will be many sub-teams here broken out by which boards you are a maintainer for.
 
-To show interest in helping as a Board maintainer, post in the [#community-management](https://dappsociety.slack.com/messages/C93ARTCGG/) channel stating your intentions. Once you are made a Trello team admin, work on adding others to the Trello team who have requested access in #access-requests.
+To show interest in helping as a Board maintainer, post in the [#community-management][com-management] channel stating your intentions. Once you are made a Trello team admin, work on adding others to the Trello team who have requested access in #access-requests.
 
 Also, keep the best interests of the group in mind whenever performing actions. **Never delete someone else's information without permission** (To protect against this, maintainers should perform regular JSON exports)
 
@@ -80,7 +80,7 @@ I am going to be out of town from Thursday to Tuesday night. So, if anyone would
 
 For example, as you go through Slack, star things that are important, and pull them out to a shared note space (maybe a Trello Board). Finally, one person can write it all up on a Trello card and post it to the group in #general.
 
-To state interest for this, please post in [#community-management](https://dappsociety.slack.com/messages/C93ARTCGG/).
+To state interest for this, please post in [#community-management][com-management].
 
 #### Group Knowledge Base / Information Archival Team
 One major downside of Slack is that free accounts are limited to 10,000 most recent messages. I don't want us to lose any important information, so we need to be actively archiving information. For now we can use Trello, but hopefully we can come up with something better soon.
@@ -89,7 +89,7 @@ We should aim to have a valuable, open source knowledge base. I don't know what 
 
 For a start, we should archive the introductions channels to a Trello Team Directory board. Everyone can have their own card describing their background and we can give each other kudos on those cards. It can in effect be a first attempt at a reputation system. We can eventually implement some decentralized reputation system.
 
-To state interest in this, please post in [#community-management](https://dappsociety.slack.com/messages/C93ARTCGG/).
+To state interest in this, please post in [#community-management][com-management].
 
 ## Important for Our Success
 Please everyone keep up the enthusiasm. This is going to be very important in our early days. Keep the discussion going in public channels. Try to do as much discussion as possible in public channels rather than in DMs. Private discussion are okay, but they are going to keep information away from the group. So we want everyone to be learning together.
@@ -97,3 +97,5 @@ Please everyone keep up the enthusiasm. This is going to be very important in ou
 For example, the only use case I have had for private chats is asking people to send me their Trello username / emails in private chat. And now that has been moved to #access-requests. But any discussion that can help everybody, you might as well do it in the open.
 
 If you feel there is no channel for it, then contact one of the Slack team administrators to make a channel. And if you would like to be an admin yourself and be able to make channels, simply post a request in #access-requests. There are no rules who can be an admin as long as everyone is acting in the best interest of the group.
+
+[com-management]: https://dappsociety.slack.com/messages/C93ARTCGG/
