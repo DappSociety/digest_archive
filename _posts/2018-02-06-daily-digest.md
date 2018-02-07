@@ -8,7 +8,7 @@ categories: daily
 Another day and even more progress has been made. It's exciting to see more and more members taking ownership of this project.
 
 ## Notable Events
-Our group is now comprised of 56 members. And that has led to a snowball of effort. **93%** of our messages have been posted in public channels! The other 7% are all in direct messages (0% private messages :-) ).  Lets keep this up to share the wealth of knowledge.
+Our group is now comprised of 56 members, leading to a snowball of effort. **93%** of our messages have been posted in public channels! The other 7% are all in direct messages (0% private messages :-) ).  Lets keep this up to share the wealth of knowledge.
 
 ### Increased Engagement
 More people have been added to the Slack owners' team, the Trello team, and the GitHub team. If you haven't been added yet, simply make a post in `#access-requests`.
