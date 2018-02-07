@@ -51,7 +51,7 @@ In this poll the organization can decide whether to use emoji reactions for voti
   3. dappsociety.com
   4. dappsociety.org
   
-Check out the poll so we can continue to work on our website and get it published (with your favorite domain).
+Check out the poll **and vote** so we can continue to work on our website and get it published (with your favorite domain).
 
 
 ### New Repos Launched
