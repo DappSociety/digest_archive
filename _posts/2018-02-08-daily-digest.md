@@ -78,7 +78,5 @@ It would be awesome if at least **two more people** would step up to help pull i
 [[Summarize and call to action for tomorrow]]
 
 ### Today's Collaborator Credits
-* __@manchaary__ - Building a Slack archiving site.
 * __@tVoid__ - Rebuild static Jekyll site.
-* __@blockchainbud__ - Content extraction and partial content.
-* __@ericbrown99__ - Content extraction, partial content, and final editing.
+* __@ericbrown99__ - Content extraction, content, and final editing.
