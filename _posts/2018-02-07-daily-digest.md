@@ -12,7 +12,7 @@ If you missed any of the previous Daily Digests, don't forget to check them out 
 ## Current Stats
 **Daily Active Users:** 46
 
-**Public vs Private messages** 93% public!!!
+**Public vs Private messages:** 93% public!!!
 
 ## Notable Events
 **Overview:** We had a really great discussion about website domains and how we want to utilize the domains that BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**. 
