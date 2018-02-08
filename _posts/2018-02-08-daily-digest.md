@@ -22,7 +22,7 @@ categories: daily
 
 
 ## Notable Events
-**Overview:** 
+**Overview:**
 [[Notable events overview]]
 
 ## Community Projects
@@ -32,13 +32,21 @@ categories: daily
 
 
 #### Utilizing Social Media Profiles
+We now have a [Medium publication group](https://medium.com/dappsociety) where we can publish articles related to our project. Since Medium doesn't allow several admins to manage the same group, __@tVoid__ is managing the group currently. If you want editor access please post your Medium username in `#access-requests` and ping __@tVoid__.
 
 #### Website Theme
+__@tVoid__ has created a website visible at [**dappsociety.github.io**](https://dappsociety.github.io). If you have any suggestions or improvements please contribute them if you can or open a [issue](https://github.com/DappSociety/dappsociety.github.io/issues) to let the rest of the group know about your idea.
 
 #### Slack Channel Archive
+[[ AFAIK there hasn't been done anything related to this today ]]
 
 ### Ballot Box
-[[ update team on current and important polls they should be voting in ]]
+**The poll about what domain we should be using as our main domain is still open!**
+* [Which Domain Name Should Be Our Primary?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - More discussion took place [starting here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361) in `#general`
+* [Trivial Test Poll - How Should We Vote?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - I suggest we close this one after today (@tVoid)
+
+We also have a closed poll:
+* [Renaming `daily_digest_archive` repo to `digest_archive`](https://dappsociety.slack.com/archives/C94SG4VK7/p1518037202000457) - The changes have been implemented
 
 ### New  Slack/Trello Channels
 [[brief update and description of any new channels or updates to default channels ]]
@@ -47,13 +55,13 @@ categories: daily
 [[ pretty self explanitory, add info about new voting or trollo boards which experienced a lot of action. Bellow are previous examples]]
 
 #### [Town Hall](https://trello.com/b/Gpm7rwac/town-hall)
- 
+
 #### [Dapp Ideas](https://trello.com/b/UNFkVdpL/dapp-ideas)
 **This board has the potential to serve as our main catalyst / motivator for actually getting to work on real blockchain projects.**
 [[Really drive people to this page. Its important that we get moving on development. Should become increasingly detailed]]
 
 
-## Notable Discussions 
+## Notable Discussions
 [[Any great debates or disccusions packed with info?! post them here and give a link and brief overview]]
 
 ## Content Kiosk
