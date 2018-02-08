@@ -5,7 +5,7 @@ date:   2018-02-06 20:00:00
 categories: daily
 ---
 
-We made a lot of great progress again today! As we continue to grow, we are continually working to streamline our process. Today we took some important steps to create our foundation for creating projects and publishing them for anyone to view.  From creating an intial skeleton for our website, to building out the Dapp Ideas Trello page, we are making a lot of progress. Keep reading to get the details!
+We made a lot of great progress again today! As we continue to grow, we are continually working to streamline our process. Today we took some important steps to improve our foundation for creating projects and publishing them for anyone to view.  From creating an intial skeleton for our website, to building out the Dapp Ideas Trello page, we are making a lot of progress. Keep reading to get the details!
 
 If you missed any of the previous Daily Digests, don't forget to check them out at our [Static Archive](https://dappsociety.github.io/daily_digest_archive/).
 
