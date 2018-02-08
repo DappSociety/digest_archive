@@ -15,7 +15,7 @@ If you missed any of the previous Daily Digests, don't forget to check them out 
 ## Notable Events
 [[Quick 1-2 sentence lead in.]]
 
-### Community Projects
+## Community Projects
 
 #### First Logo Concept
 @Olaf has taken the initiative to create our first logo concept! He did a great job, so if you haven't seen it yet, [check it out here](https://dappsociety.slack.com/archives/C95CY7JEN/p1518032966000732).
