@@ -38,9 +38,15 @@ We now have a [Medium publication group](https://medium.com/dappsociety) where w
 __@tVoid__ has created a website visible at [**dappsociety.github.io**](https://dappsociety.github.io). If you have any suggestions or improvements please contribute them if you can or open a [issue](https://github.com/DappSociety/dappsociety.github.io/issues) to let the rest of the group know about your idea.
 
 #### Slack Channel Archive
+[[ AFAIK there hasn't been done anything related to this today ]]
 
 ### Ballot Box
-[[ update team on current and important polls they should be voting in ]]
+**The poll about what domain we should be using as our main domain is still open!**
+* [Which Domain Name Should Be Our Primary?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - More discussion took place [starting here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361) in `#general`
+* [Trivial Test Poll - How Should We Vote?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - I suggest we close this one after today (@tVoid)
+
+We also have a closed poll:
+* [Renaming `daily_digest_archive` repo to `digest_archive`](https://dappsociety.slack.com/archives/C94SG4VK7/p1518037202000457) - The changes have been implemented
 
 ### New  Slack/Trello Channels
 [[brief update and description of any new channels or updates to default channels ]]
