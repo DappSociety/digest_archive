@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Daily Digest - February 7, 2018"
-date:   2018-02-06 20:00:00
+date:   2018-02-07 20:00:00
 categories: daily
 ---
 
