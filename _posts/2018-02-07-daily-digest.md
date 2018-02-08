@@ -77,7 +77,7 @@ Many of our ideas have been added and segmented into categorized lists. The Card
 **Please** add your ideas with yourself as a member on the card (or claim your ideas if they are already there).
 
 ## Notable Discussions and Announcements
-The debate continues surounding domain names and how to best utilize them to communicate our work online. Check out the discussion in #general starting [here] https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361
+The debate continues surounding domain names and how to best utilize them to communicate our work online. Check out the discussion in #general starting [here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361)
 and the **go vote** in #ballot-box.
 
 `#content-kiosk` had some really great content added today. Definitely check it out if you are interested in podcasts!
