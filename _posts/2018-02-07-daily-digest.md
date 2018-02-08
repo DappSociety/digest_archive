@@ -11,6 +11,7 @@ If you missed any of the previous Daily Digests, don't forget to check them out 
 
 ## Current Stats
 **Daily Active Users:** 46
+
 **% of messages public:** 93 !!!
 
 ## Notable Events
