@@ -15,7 +15,7 @@ If you missed any of the previous Daily Digests, don't forget to check them out 
 **Public vs Private messages:** 93% public!!!
 
 ## Notable Events
-**Overview:** We had a really great discussion about website domains and how we want to utilize the domains that BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**. 
+**Overview:** We had a really great discussion about website domains and how we want to utilize the domains that BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**.
 
 ## Community Projects
 
@@ -33,6 +33,9 @@ We haven't had any discussions yet about how to best utilize our social media pr
 
 #### Website Theme
 @tVoid has started working on a initial theme for our home page. It's still a work in progress but the initiative is great! [Check it out here](https://dappsociety.github.io/).
+
+#### Slack Channel Archive
+@manchaary has created a script to extract and archive the `#introductions` into git. It's still a work in progress but you can checkout the first extractions [here](http://manch.pw/dappsociety/introparser/).
 
 ### Ballot Box
 We currently have three polls running. Two from yesterday and one from today.
@@ -114,6 +117,7 @@ Getting just one small team started on a real blockchain project will be a very 
 
 
 ### Today's Collaborator Credits
+* __@manchaary__ - Building a Slack archiving site.
 * __@tVoid__ - Rebuild static Jekyll site.
 * __@blockchainbud__ - Content extraction and partial content.
 * __@ericbrown99__ - Content extraction, partial content, and final editing.
