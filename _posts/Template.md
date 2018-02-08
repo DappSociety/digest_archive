@@ -11,15 +11,15 @@ categories: daily
 
 ## Current Stats
 
+
 | Daily Active Users | Daily Active Posters|
 |--------------------|---------------------|
-| *Input analytics*  | *input analytics    |
+| *Input analytics*  | *input analytics*   |
 
+| % Public Messages | % Thread Messages | % Private Messages |
+|-------------------|-------------------|--------------------|
+| *input analytics* | *input analytics* | *input analytics*  |
 
-
-**Daily Active Users:** 
-
-**Public vs Private messages:** 
 
 ## Notable Events
 **Overview:** 
