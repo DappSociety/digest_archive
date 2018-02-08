@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "Daily Digest - February 6, 2018"
-date:   2018-02-06 12:00:00
+date:   2018-02-06 20:00:00
 categories: daily
 ---
 
 Another day and even more progress has been made. It's exciting to see more and more members taking ownership of this project.
 
 ## Notable Events
-Our group is now comprised of 56 members. And that has led to a snowball of effort.
+Our group is now comprised of 56 members, leading to a snowball of effort. **93%** of our messages have been posted in public channels! The other 7% are all in direct messages (0% private messages :-) ).  Lets keep this up to share the wealth of knowledge.
 
 ### Increased Engagement
 More people have been added to the Slack owners' team, the Trello team, and the GitHub team. If you haven't been added yet, simply make a post in `#access-requests`.
+
+**Note:** To maintain continuity and clarity, try to have similar usernames across these three platforms.
 
 Soon we will have analytics available in Slack and have another way to chart our engagement growth!
 
@@ -26,13 +28,31 @@ And to make finding channels easier, we added default channels to new user regis
 
 Any channels added after you signed up (or if you signed up before the default channels were added) can be found by clicking the word `Channels` above your channel list. From there you can join any of them.
 
-__To anyone who is or becomes a Slack owner:__
+__To anyone who is, or becomes, a Slack owner:__
 
-There is a workspace setting titled `Default Channels` for new members. We should try and make sure this is always up to date so new members don't (1) think there is no discussion going on or (2) wonder why they can't see the channels.
+There is a workspace setting titled `Default Channels` for new members. We should make sure this is always up to date so new members don't (1) think there is no discussion going on or (2) wonder why they can't see the channels.
 
 https://dappsociety.slack.com/admin/settings#default_channels
 
 Once we have a _lot_ of channels (like for individual dev projects), it won't make sense to add them all, but we should at least add the important ones by default.
+
+### `#ballot-box`
+As previously mentioned, the `#ballot-box` channel was added today. We are doing a trial run to create an all-inclusive goup voting system via slack. 
+
+**Quick Note:** In `#ballot-box` we want to keep all of the discussions in side threads so that the main channel only has votes. This makes it easier to quickly find results. Today we slipped up on that, so lets work on improving this tomorrow!
+
+#### Trivial Test Poll
+In this poll the organization can decide whether to use emoji reactions for voting or a slack voting integration. This will likely decide how we do voting for a decent period in the short run, so make your opinion known!
+
+#### Domain Name Poll
+@BlockchainBud has purchased **4** domain names for our project! What do you prefer?:
+  1. dappsociety.io
+  2. dappsociety.net
+  3. dappsociety.com
+  4. dappsociety.org
+  
+Check out the poll **and vote** so we can continue to work on our website and get it published (with your favorite domain).
+
 
 ### New Repos Launched
 
@@ -67,7 +87,7 @@ Initial talks about using Reddit were brought up during a discussion in `#commun
 * __@blockchainbud:__ Where a sub-Reddit would fit into our strategy, in my opinion, would be as self-curating message board. But I still think we would want to pull Reddit stuff into our version controlled information (digests, wiki, etc), since information does get buried there too.
 
 ## Notable Discussion and Announcements
-A lot of great discussion took place today that is continuing to pave the way for a very efficient group.
+A lot of great discussion took place today that is continuing to pave the way for a very efficient group.  Interested in *identity management*? Check out the `#dapp-ideas` channel! 
 
 ### Curating and Archiving Content
 In `#community-management` we were discussing how to curate and archive our content in an open source and collaborative way. [View the start of the conversation](https://dappsociety.slack.com/archives/C93ARTCGG/p1517930544000374).
@@ -81,25 +101,27 @@ Examples of content re-purposing:
 * Static site generators for blogs, books, wikis, newsletters
 * GitHub Pages
 
-Benefits of open source, collaborative content
+Benefits of open source, collaborative content:
 
 * Central medium for the most important content
 * Flexibility for users to choose their personal tools of choice
 * Knowledge base can grow and improve without restrictions
 
-We will likely be publishing content/guides that help the global ecosystem, so we want that to be as accessible as possible. Storing our source material under version control gives us ultimate flexibility and potential for collaboration, not just among ourselves, but among anyone who finds it.
+We will likely be publishing content/guides that help the global ecosystem and we want our content to be as accessible as possible! Storing our source material under version control gives us ultimate flexibility and potential for collaboration, not just among ourselves, but among anyone who finds it.
 
 ## Volunteers Needed
 It's awesome how everyone is stepping up to the plate to help make this group amazing. But we're not running at optimal efficiency just yet :-)
 
 Please see the `Volunteers Needed` section in [yesterday's Daily Digest](https://dappsociety.github.io/daily_digest_archive/daily/2018/02/05/daily-digest.html). What is needed today hasn't changed much since those tasks encompass most of what we are currently working on.
 
+One place where we will need help in the near future is with writing the **daily digests**.  We are going to create a generic template that can be used each day, delegating individuals to write each section. This will streamline the process immediately and be a beneficial structure once we scale, requiring contributions from individuals with more specialized knowledge on projects. 
+
 ## Important for Our Success
 As mentioned yesterday, we need to keep up our enthusiasm. We are doing a great job at that and the momentum is really building.
 
-We also need to start thinking about getting down to the actual development work that we started this group for. Continue to throw out ideas, and then at some point, we should schedule a focused discussion around one or more of the ideas.
+We also need to start thinking about getting down to the actual development work which was the catalyst for this group. Continue to throw out ideas, and then at some point, we should schedule a focused discussion around one or more of the ideas. Everyone here has something to contribute so don't be afraid to be a part of the discussion, ~~even~~ especially if you feel you don't have as much experience as others here. We are all hear to learn and to help eachother!
 
-Getting just one small team started on a real blockchain project will be a very good testament to our group's mission.
+Getting just one small team started on a real blockchain project will be a very good testament to our group's mission.  Lets continue to optimize our process and gain momentum going into the second half of the week so we can reach this goal faster!
 
 ## Today's Collaborator Credits
 * __@tVoid__ - Set up repo and Jekyll site generator
