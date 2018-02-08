@@ -5,15 +5,16 @@ date:   2018-02-06 20:00:00
 categories: daily
 ---
 
-[[Intro here]]
+We made a lot of great progress again today! As we continue to grow, we are continually working to streamline our process. Today we took some important steps to create our foundation for creating projects and publishing them for anyone to view.  From creating an intial skeleton for our website, to building out the Dapp Ideas Trello page, we are making a lot of progress. Keep reading to get the details!
 
 If you missed any of the previous Daily Digests, don't forget to check them out at our [Static Archive](https://dappsociety.github.io/daily_digest_archive/).
 
 ## Current Stats
-[[Put updated analytics commentary here if you think they are important. Here is the link: https://dappsociety.slack.com/admin/stats. (Note: I think they are delayed by 24 hours)]]
+**Daily Active Users:** 46
+**% of messages public:** 93 !!!
 
 ## Notable Events
-[[Quick 1-2 sentence lead in.]]
+**Overview:** We had a really great discussion about website domains and how we want to utilize the domains that BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**. 
 
 ## Community Projects
 
@@ -26,7 +27,7 @@ And of course, if any of you other designers out there want to give a shot at ma
 
 **Important Note:** If you are working on a logo, keep in mind that we are *not* exclusively about Ethereum. We are about *blockchain / decentralization / distributed ledger technology.*
 
-#### Utilizing Social Media Prorfiles
+#### Utilizing Social Media Profiles
 We haven't had any discussions yet about how to best utilize our social media presence, but @Olaf has stepped up to the plate here as well. He will be an admin for the Twitter profile. If anyone else is interested in utilizing any of the social media profiles please join the discussion in `#social-media`.
 
 #### Website Theme
@@ -75,7 +76,10 @@ Many of our ideas have been added and segmented into categorized lists. The Card
 **Please** add your ideas with yourself as a member on the card (or claim your ideas if they are already there).
 
 ## Notable Discussions and Announcements
-[[Go through channels and pull snippets out. Link to the messages.]]
+The debate continues surounding domain names and how to best utilize them to communicate our work online. Check out the discussion in #general starting [here] https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361
+and the **go vote** in #ballot-box.
+
+`#content-kiosk` had some really great content added today. Definitely check it out if you are interested in podcasts!
 
 ## Volunteers Needed
 It's awesome how everyone is stepping up to the plate to help make this group amazing. But we're not running at optimal efficiency just yet :-)
