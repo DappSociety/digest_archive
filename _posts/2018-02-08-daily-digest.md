@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Daily Digest - Month Day, Year"
-date:   YYYY-MM-DD 20:00:00
+title:  "Daily Digest - February 2, 2018"
+date:   2018-02-08 20:00:00
 categories: daily
 ---
 ## If Nothing Else, Read This
@@ -37,7 +37,7 @@ Today we saw some good submissions and discussions about our potential logos tha
 #### Website Theme
 @tVoid expanded upon yesterdays work on the website, and its starting to really take form. [Check it out](https://dappsociety.github.io/) and join the discussion about our website design, especially if web development is a skill of yours or one at which you want to get better!
 
-Have an opinion on material css or bootstrap 4 for web frameworks? [Check out the discussion]](https://dappsociety.slack.com/archives/C93CZR93K/p1518124058000625)
+Have an opinion on material css or bootstrap 4 for web frameworks? [Check out the discussion](https://dappsociety.slack.com/archives/C93CZR93K/p1518124058000625)
 
 #### Slack Channel Archive
 
