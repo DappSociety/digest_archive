@@ -4,13 +4,13 @@ title:  "Daily Digest - Month Day, Year"
 date:   YYYY-MM-DD 20:00:00
 categories: daily
 ---
-# If Nothing Else, Read This
+## If Nothing Else, Read This
 Volunteers are still needed for helping out with writing the dailies.  Its quite the task for 1 or 2 people to do, but with a couple more hands it would be a simple task.  
 
 Get involved on the Dapp Ideas Trello page! A lot of projects have been outlined and the best way to learn is by working on projects. By getting involved now, its more likely that projects will be something you are very interested. 
 
-[[intro here]]
-
+## Daily Intro
+Great work to start off the second half of the week, moving into the weekend!  We made some awesome progress today discussing the token reward system and our future logo, touching on all sides of the organizations goals. 
 ## Current Stats
 
 | Daily Active Users | Daily Active Posters|
@@ -90,7 +90,10 @@ This will be especially important over the next 6 days while @BlockchainBud is o
 It would be awesome if at least **two more people** would step up to help pull information out of Slack. Even if you don't want to write the formal drafts, you can just leave notes on the Trello cards to be composed at the end of the day.
 
 ## In Closing
-[[Summarize and call to action for tomorrow]]
+Moving forward, try and find the aspect of our organization in which you feel you can contribute the most and the one from which you will learn the most! This will create a ton of value for the group as a whole and for *you* as an individual.  We are all here to develop our skills and make some great products! Even if you don't have a ton of time, go checkout the Trello pages or read the other dailies to stay excited about the work we are doing. This has been such a great start and successful first week! Its inspiring to see how a group of strangers can gather around a common goal!
+
+**END NOTE:** If I missed anything or made a couple typos, please feel free to edit the daily or reach out!
+
 
 ### Today's Collaborator Credits
 * __@tVoid__ - Rebuild static Jekyll site.
