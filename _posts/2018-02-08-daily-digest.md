@@ -10,7 +10,8 @@ Volunteers are still needed for helping out with writing the dailies.  Its quite
 Get involved on the Dapp Ideas Trello page! A lot of projects have been outlined and the best way to learn is by working on projects. By getting involved now, its more likely that projects will be something you are very interested. 
 
 ## Daily Intro
-Great work to start off the second half of the week, moving into the weekend!  We made some awesome progress today discussing the token reward system and our future logo, touching on all sides of the organizations goals. 
+Great work to start off the second half of the week, moving into the weekend!  We made some awesome progress today discussing the token reward system and our future logo, touching on all sides of the organizations goals. We need to work as a group to maintain momentum.  This weekend could be a great time to get started on some projects! Keep reading to learn more about todays action!
+
 ## Current Stats
 
 | Daily Active Users | Daily Active Posters|
