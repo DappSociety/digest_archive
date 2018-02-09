@@ -66,7 +66,7 @@ Great discussion in `#group-contracts` about how we want to format and build our
 
 Here are some notes from [the discussion](https://dappsociety.slack.com/archives/C9403E24A/p1518071842000196)  There is a lot to go through so I recommend reading through the actual slack: 
 
-* How should we decide value of a task? Maybe via group wisdom and voting many groups are using bounties to solve this issue (ConsenSys, GitCoins, StatusIBM)
+* How should we decide value of a task? Maybe via group wisdom and voting. Many groups are using bounties to solve this issue (ConsenSys, GitCoins, StatusIBM)
 * Attach bounties to anything and limit manipulation by utilizing group consensus on bounties. Ensre the ability to fund bounties at any time, even after completion (given that completed work could end up being more valuable than initially percieved
 * We dont want to require marketing bounties. Make sure the bounties are fundable and payable to multiple people
 * Only way to mint tokens is to include them into circulation is by initially including them as part of a bounty. Unused bounty tokens that were paid out will be recycled. This is incentive to "vote" on other projects in a timely maner
