@@ -24,14 +24,17 @@ Great work to start off the second half of the week, moving into the weekend!  W
 
 
 ## Notable Events
+
 **Overview:** 
 The website is taking shape as well as potential designs for our logo. 
 We had a great discussion about building out our rewards system for incentivizing members.
 Conversely the Dapp Ideas page didn't see a whole lot of involvement :(
 
+
 ## Community Projects
 
 #### Logo Concept
+
 Today we saw some good submissions and discussions about our potential logos that you can [see here](https://dappsociety.slack.com/files/U940KDSQ3/F965D9ZNE/image_uploaded_from_ios.jpg).  There is now a poll up in `#ballot box` to get feedback on a couple designs and more may be added soon!
 
 #### Website Theme
@@ -39,13 +42,20 @@ Today we saw some good submissions and discussions about our potential logos tha
 
 Have an opinion on material css or bootstrap 4 for web frameworks? [Check out the discussion](https://dappsociety.slack.com/archives/C93CZR93K/p1518124058000625)
 
-
 ### Ballot Box
 A new poll was posted today by @Olaf regarding our Logo!  They've made some great progress so make sure to [check it out and vote](https://dappsociety.slack.com/files/U955F5K0F/F969J5ZS6/instasize_180208212202.png)
 
 @Livery614 proposed that we should use the slack app "Simple Poll" for voting and posted an example in [#community-management](https://dappsociety.slack.com/archives/C93ARTCGG/p1518125536000404).  We will likely be testing that out soon! 
 
+We also have a closed poll:
+* [Renaming `daily_digest_archive` repo to `digest_archive`](https://dappsociety.slack.com/archives/C94SG4VK7/p1518037202000457) - The changes have been implemented
+
 You can learn more about our other polls in [previous dailies](https://dappsociety.github.io/digest_archive/)!
+
+
+#### Utilizing Social Media Profiles
+We now have a [Medium publication group](https://medium.com/dappsociety) where we can publish articles related to our project. Since Medium doesn't allow several admins to manage the same group, __@tVoid__ is managing the group currently. If you want editor access please post your Medium username in `#access-requests` and ping __@tVoid__.
+
 
 ### New  Slack/Trello Channels
 No new channels today, but a lot of great discussions!
@@ -53,13 +63,16 @@ No new channels today, but a lot of great discussions!
 ### Trello Board Updates
 
 #### [Town Hall](https://trello.com/b/Gpm7rwac/town-hall)
+
 No new updates on town hall, but make sure you check it out or add to it if you haven't had the chance to yet!
+
 
 #### [Dapp Ideas](https://trello.com/b/UNFkVdpL/dapp-ideas)
 **This board has the potential to serve as our main catalyst / motivator for actually getting to work on real blockchain projects.**
 @BlockchainBud really built out the Dapp Ideas Trello as well as digesting some great information about the token rewards program in the [project card](https://trello.com/c/1NVM4yp3/4-token-reward-system-for-bootstrapping-projects)
 
 The slack channel didn't get a lot of of traffic today, which could be in part because of the great discussion that was had in `#Group-Contracts`.  Lets continue to try and get discussions going in the slack and people involved with the trello board!
+
 
 ## Notable Discussions 
 Great discussion in `#group-contracts` about how we want to format and build our token rewards system. Its going to take a lot of iterations to properly develop so any thoughts or suggestions are highly encouraged.
@@ -72,6 +85,7 @@ Here are some notes from [the discussion](https://dappsociety.slack.com/archives
 * Only way to mint tokens is to include them into circulation is by initially including them as part of a bounty. Unused bounty tokens that were paid out will be recycled. This is incentive to "vote" on other projects in a timely maner
 * Need to create a way to determine when a bounty is complete. Use a poll system to create an oracle
 * Outline of BlockchainBuds brain dump in [the trello](https://trello.com/c/1NVM4yp3/4-token-reward-system-for-bootstrapping-projects).
+
 
 ## Content Kiosk
 @ericbrown99 is going to work on digesting the information in `#contentKisok` this weekend.  Keep your eyes peeled for a link in the slack and in one of our daily digests early next week!
