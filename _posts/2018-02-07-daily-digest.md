@@ -5,7 +5,7 @@ date:   2018-02-07 20:00:00
 categories: daily
 ---
 
-We made a lot of great progress again today! As we continue to grow, we are continually working to streamline our process. Today we took some important steps to improve our foundation for creating projects and publishing them for anyone to view.  From creating an intial skeleton for our website, to building out the Dapp Ideas Trello page, we are making a lot of progress. Keep reading to get the details!
+We made a lot of great progress again today! As we continue to grow, we are continually working to streamline our process. Today we took some important steps to improve our foundation for creating projects and publishing them for anyone to view.  From creating an initial skeleton for our website, to building out the Dapp Ideas Trello page, we are making a lot of progress. Keep reading to get the details!
 
 If you missed any of the previous Daily Digests, don't forget to check them out at our [Static Archive](https://dappsociety.github.io/daily_digest_archive/).
 
@@ -15,7 +15,7 @@ If you missed any of the previous Daily Digests, don't forget to check them out 
 **Public vs Private messages:** 93% public!!!
 
 ## Notable Events
-**Overview:** We had a really great discussion about website domains and how we want to utilize the domains that BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**.
+**Overview:** We had a really great discussion about website domains and how we want to utilize the domains that @BlockchainBud reserved (make your opinion known by voting in ` ballot-box`!).  We have our first submission for a potential logo as well as a framework for our website! Additionally we have a couple new slack channels and a beefed up Dapp Ideas trello page **with voting**.
 
 ## Community Projects
 
@@ -42,7 +42,7 @@ We currently have three polls running. Two from yesterday and one from today.
 
 * [Renaming `daily_digest_archive` repo to `digest_archive`](https://dappsociety.slack.com/archives/C94SG4VK7/p1518037202000457)
 * [Trivial Test Poll - How Should We Vote?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - Looks like using Emojis is going to win this round.
-* [Which Domain Name Should Be Our Primary?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - More discussion took place [startin here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361) in `#general`
+* [Which Domain Name Should Be Our Primary?](https://dappsociety.slack.com/archives/C94SG4VK7/p1517938181000786) - More discussion took place [starting here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361) in `#general`
 
 **Important:** If you haven't yet voted in these polls, please do. Your input is important to the group.
 
@@ -80,7 +80,7 @@ Many of our ideas have been added and segmented into categorized lists. The Card
 **Please** add your ideas with yourself as a member on the card (or claim your ideas if they are already there).
 
 ## Notable Discussions and Announcements
-The debate continues surounding domain names and how to best utilize them to communicate our work online. Check out the discussion in #general, [starting here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361)
+The debate continues surrounding domain names and how to best utilize them to communicate our work online. Check out the discussion in #general, [starting here](https://dappsociety.slack.com/archives/C93CZR93K/p1517992036000361)
 and then **go vote** in #ballot-box.
 
 `#content-kiosk` had some really great content added today. Definitely check it out if you are interested in podcasts!
@@ -94,7 +94,7 @@ Please see the `Volunteers Needed` section in [Monday's Daily Digest](https://da
 
 We are going to create a generic template that can be used each day, delegating individuals to write each section. This will streamline the process immediately and be a beneficial structure once we scale, requiring contributions from individuals with more specialized knowledge on projects.
 
-This will be especially important over the next 6 days while @BlockchainBud is out of town. Otherwise, the entire burden is @ericbrown99 :-/
+This will be especially important over the next 6 days while @BlockchainBud is out of town. Otherwise, the entire burden is on @ericbrown99 :-/
 
 It would be awesome if at least **two more people** would step up to help pull information out of Slack. Even if you don't want to write the formal drafts, you can just leave notes on the Trello cards to be composed at the end of the day.
 
@@ -119,5 +119,5 @@ Getting just one small team started on a real blockchain project will be a very 
 ### Today's Collaborator Credits
 * __@manchaary__ - Building a Slack archiving site.
 * __@tVoid__ - Rebuild static Jekyll site.
-* __@blockchainbud__ - Content extraction and partial content.
+* __@BlockchainBud__ - Content extraction and partial content.
 * __@ericbrown99__ - Content extraction, partial content, and final editing.
