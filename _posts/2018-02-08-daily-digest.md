@@ -58,7 +58,7 @@ You can learn more about our other polls in [previous dailies](https://dappsocie
 #### Utilizing Social Media Profiles
 We now have a [Medium publication group](https://medium.com/dappsociety) where we can all publish articles under our own author names. The array of topics we can cover is extremely diverse. Don't limit yourself.
 
->**@BlockahainBud:** **Let me share an example:** I recently wrote a draft for an article that is not directly related to blockchain. It is about managing the dopamine rush of searching social media and reading all the new articles/posts. Severe information overload. I manage this through a GTD (Getting Things Done) system that utilizes various curation tools.
+>**@BlockchainBud:** **Let me share an example:** I recently wrote a draft for an article that is not directly related to blockchain. It is about managing the dopamine rush of searching social media and reading all the new articles/posts. Severe information overload. I manage this through a GTD (Getting Things Done) system that utilizes various curation tools.
 
 >Then, they key, is to let those articles age in your collection inbox. You can still read them at your leisure, but when you do weekly pruning, you will come across saved articles that are over a month old and are no longer relevant.
 
@@ -124,7 +124,7 @@ It would be awesome if at least **two more people** would step up to help pull i
 
 **Important:** Do not worry if English is not your first language. We are an global and all-inclusive group, and the native English speakers of use can always edit your contributions if you'd prefer.
 
->**Side Note from @BlockchinBud:** I read though half of the official Solidity Documentation / PDF on the airplan today and it's clear that not all contributors have perfect English. But that **does not** detract from the overall value the content provides. The wording and flow can always be improved, much easier than the actual content creation.
+>**Side Note from @BlockchinBud:** I read though half of the official Solidity Documentation / PDF on the airplane today and it's clear that not all contributors have perfect English. But that **does not** detract from the overall value the content provides. The wording and flow can always be improved, much easier than the actual content creation.
 
 > If they can get by without perfect English, so can we! :-D
 
