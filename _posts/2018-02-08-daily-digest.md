@@ -43,6 +43,8 @@ Have an opinion on material css or bootstrap 4 for web frameworks? [Check out th
 ### Ballot Box
 A new poll was posted today by @Olaf regarding our Logo!  They've made some great progress so make sure to [check it out and vote](https://dappsociety.slack.com/files/U955F5K0F/F969J5ZS6/instasize_180208212202.png)
 
+@Livery614 proposed that we should use the slack app "Simple Poll" for voting and posted an example in [#community-management](https://dappsociety.slack.com/archives/C93ARTCGG/p1518125536000404).  We will likely be testing that out soon! 
+
 You can learn more about our other polls in [previous dailies](https://dappsociety.github.io/digest_archive/)!
 
 ### New  Slack/Trello Channels
