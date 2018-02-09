@@ -4,7 +4,7 @@ title:  "Daily Digest - Month Day, Year"
 date:   YYYY-MM-DD 20:00:00
 categories: daily
 ---
-#If Nothing Else, Read This
+# If Nothing Else, Read This
 Volunteers are still needed for helping out with writing the dailies.  Its quite the task for 1 or 2 people to do, but with a couple more hands it would be a simple task.  
 
 Get involved on the Dapp Ideas Trello page! A lot of projects have been outlined and the best way to learn is by working on projects. By getting involved now, its more likely that projects will be something you are very interested. 
