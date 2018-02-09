@@ -5,62 +5,77 @@ date:   YYYY-MM-DD 20:00:00
 categories: daily
 ---
 #If Nothing Else, Read This
-[[section of most important announcements and calls to action]]
+Volunteers are still needed for helping out with writing the dailies.  Its quite the task for 1 or 2 people to do, but with a couple more hands it would be a simple task.  
+
+Get involved on the Dapp Ideas Trello page! A lot of projects have been outlined and the best way to learn is by working on projects. By getting involved now, its more likely that projects will be something you are very interested. 
 
 [[intro here]]
 
 ## Current Stats
-[[Analytics can be found in slack on the drop down tab next to the title name Dapp Society ]]
 
 | Daily Active Users | Daily Active Posters|
 |--------------------|---------------------|
-| *Input analytics*  | *input analytics*   |
+| 46  | 25   |
 
 | % Public Messages | % Thread Messages | % Private Messages |
 |-------------------|-------------------|--------------------|
-| *input analytics* | *input analytics* | *input analytics*  |
+| 94 | 6 | 0  |
 
 
 ## Notable Events
 **Overview:** 
-[[Notable events overview]]
+The website is taking shape as well as potential designs for our logo. 
+We had a great discussion about building out our rewards system for incentivizing members.
+Conversely the Dapp Ideas page didn't see a whole lot of involvement :(
 
 ## Community Projects
-[[Below are examples of categories of previous updates]]
 
 #### Logo Concept
-
-
-#### Utilizing Social Media Profiles
+Today we saw some good submissions and discussions about our potential logos that you can [see here](https://dappsociety.slack.com/files/U940KDSQ3/F965D9ZNE/image_uploaded_from_ios.jpg).  There is now a poll up in `#ballot box` to get feedback on a couple designs and more may be added soon!
 
 #### Website Theme
+@tVoid expanded upon yesterdays work on the website, and its starting to really take form. [Check it out](https://dappsociety.github.io/) and join the discussion about our website design, especially if web development is a skill of yours or one at which you want to get better!
+
+Have an opinion on material css or bootstrap 4 for web frameworks? [Check out the discussion]](https://dappsociety.slack.com/archives/C93CZR93K/p1518124058000625)
 
 #### Slack Channel Archive
 
 ### Ballot Box
-[[ update team on current and important polls they should be voting in ]]
+A new poll was posted today by @Olaf regarding our Logo!  They've made some great progress so make sure to [check it out and vote](https://dappsociety.slack.com/files/U955F5K0F/F969J5ZS6/instasize_180208212202.png)
+
+You can learn more about our other polls in [previous dailies](https://dappsociety.github.io/digest_archive/)!
 
 ### New  Slack/Trello Channels
-[[brief update and description of any new channels or updates to default channels ]]
+No new channels today, but a lot of great discussions!
 
 ### Trello Board Updates
-[[ pretty self explanitory, add info about new voting or trollo boards which experienced a lot of action. Bellow are previous examples]]
 
 #### [Town Hall](https://trello.com/b/Gpm7rwac/town-hall)
- 
+No new updates on town hall, but make sure you check it out or add to it if you haven't had the chance to yet!
+
 #### [Dapp Ideas](https://trello.com/b/UNFkVdpL/dapp-ideas)
 **This board has the potential to serve as our main catalyst / motivator for actually getting to work on real blockchain projects.**
-[[Really drive people to this page. Its important that we get moving on development. Should become increasingly detailed]]
+@BlockchainBud really built out the Dapp Ideas Trello as well as digesting some great information about the token rewards program in the [project card](https://trello.com/c/1NVM4yp3/4-token-reward-system-for-bootstrapping-projects)
 
+The slack channel didn't get a lot of of traffic today, which could be in part because of the great discussion that was had in `#Group-Contracts`.  Lets continue to try and get discussions going in the slack and people involved with the trello board!
 
 ## Notable Discussions 
-[[Any great debates or disccusions packed with info?! post them here and give a link and brief overview]]
+Great discussion in `#group-contracts` about how we want to format and build our token rewards system. Its going to take a lot of iterations to properly develop so any thoughts or suggestions are highly encouraged.
+
+Here are some notes from [the discussion](https://dappsociety.slack.com/archives/C9403E24A/p1518071842000196)  There is a lot to go through so I recommend reading through the actual slack: 
+
+* How should we decide value of a task? Maybe via group wisdom and voting many groups are using bounties to solve this issue (ConsenSys, GitCoins, StatusIBM)
+* Attach bounties to anything and limit manipulation by utilizing group consensus on bounties. Ensre the ability to fund bounties at any time, even after completion (given that completed work could end up being more valuable than initially percieved
+* We dont want to require marketing bounties. Make sure the bounties are fundable and payable to multiple people
+* Only way to mint tokens is to include them into circulation is by initially including them as part of a bounty. Unused bounty tokens that were paid out will be recycled. This is incentive to "vote" on other projects in a timely maner
+* Need to create a way to determine when a bounty is complete. Use a poll system to create an oracle
+* Outline of BlockchainBuds brain dump in [the trello](https://trello.com/c/1NVM4yp3/4-token-reward-system-for-bootstrapping-projects).
 
 ## Content Kiosk
-[[Skim through material added to the content kiosk and highlight the main points in order to drive people to these channels and encourage them to learn!]]
+@ericbrown99 is going to work on digesting the information in `#contentKisok` this weekend.  Keep your eyes peeled for a link in the slack and in one of our daily digests early next week!
 
 ## Volunteers Needed
-[[Update what we need active volunteers for. Below is ysterdays example which mostly still holds true ]]
+Yesterdays section holds up really well for today so I'm going to leave it below: 
 
 It's awesome how everyone is stepping up to the plate to help make this group amazing. But we're not running at optimal efficiency just yet :-)
 
