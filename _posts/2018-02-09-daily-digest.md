@@ -14,11 +14,11 @@ categories: daily
 
 | Daily Active Users | Daily Active Posters|
 |--------------------|---------------------|
-| x  | x   | x
+| 40 | 18   | 
 
 | % Public Messages | % Thread Messages | % Private Messages |
 |-------------------|-------------------|--------------------|
-| x | x | x  |
+| 75 | 25 | 0  |
 
 
 ## Notable Events
