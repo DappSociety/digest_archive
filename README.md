@@ -90,9 +90,9 @@ categories: daily
 ### Trello Board Updates
 [[ pretty self explanitory, add info about new voting or trollo boards which experienced a lot of action. Bellow are previous examples ]]
 
-#### [Town Hall](https://trello.com/b/Gpm7rwac/town-hall)
+#### [Town Hall][trello town hall]
 
-#### [Dapp Ideas](https://trello.com/b/UNFkVdpL/dapp-ideas)
+#### [Dapp Ideas][trello dapp ideas]
 **This board has the potential to serve as our main catalyst / motivator for actually getting to work on real blockchain projects.**
 [[ Really drive people to this page. Its important that we get moving on development. Should become increasingly detailed ]]
 
@@ -147,7 +147,7 @@ It would be awesome if at least **two more people** would step up to help pull i
 [trello town hall]: https://trello.com/b/Gpm7rwac/town-hall
 [trello community management]: https://trello.com/b/3r6vlDXn/community-management
 [trello daily digest]: https://trello.com/b/JIUk7VsQ/daily-digest
-[trello dapps ideas]: https://trello.com/b/UNFkVdpL/dapp-ideas
+[trello dapp ideas]: https://trello.com/b/UNFkVdpL/dapp-ideas
 
 [trello poll list]: https://trello.com/c/CyOTAFX8
 
