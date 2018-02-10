@@ -8,7 +8,7 @@ categories: daily
 Dapp Ideas saw a ton of action today! Great work! tVoid did a ton of work on this daily which was awesome! We could still use more help!
 
 ## Daily Intro
-Lets all try to maintain momentum going into the weekend! Overall the community was a little quieter today which is understandable.  Lets start to move towards taking action on the conversations developing in Dapp Ideas!  Not much in this digest yet so feel free to add to it and contribute. More soon!
+Lets all try to maintain momentum going into the weekend! Overall the community was a little quieter today which is understandable.  Lets start to move towards taking action on the conversations developing in Dapp Ideas!  Not much in this digest as not a whole lot happened outside of the Dapp Ideas Slack channel. Keep reading to see if you missed anything!
 
 ## Current Stats
 
@@ -20,13 +20,6 @@ Lets all try to maintain momentum going into the weekend! Overall the community 
 |-------------------|-------------------|--------------------|
 | 75 | 25 | 0  |
 
-
-## Notable Events
-
-**Overview:**
-
-* _
-* _
 
 ## Community Projects
 
@@ -63,15 +56,17 @@ No activity here today :(
 Tomas Roaldsnes idea about a time locked savings game is getting traction and quite a bit has been discussed about it today (mainly on Slack, [here](https://dappsociety.slack.com/files/U947MNU2X/F96661NDP/timecontractsavingsaccount_whitepaper.pdf))
 
 ## Notable Discussions
-@manchaary and @rxdizzle have suggested creating producthunt-like Dapp review site [[ add link to @manchaary's Trello card here ]]
+@manchaary and @rxdizzle have suggested creating producthunt-like Dapp review site in Trello
 
 ## Content Kiosk
 @BlockchainBud has shared an article about Dapp scaling using sidechains: [link](https://medium.com/loom-network/dappchains-scaling-ethereum-dapps-through-sidechains-f99e51fff447)
 
 ## Volunteers Needed
-
+Still mostly for dailies, but start thinking about which projects you can help!
 
 ## In Closing
+
+Not a ton to report today. Lets keep up the good work and utilize our first full weekend together as an established group!
 
 
 ### Today's Collaborator Credits
