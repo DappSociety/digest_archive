@@ -20,7 +20,7 @@ Everyone who wants to contribute can do so.
            v                   v  |  v                      |
            +-wip/YYYY-MM-DD/user2->  +-wip/YYYY-MM-DD/user3->
 ```
-- The first user to contribute to a daily creates the wip master branch (`wip/YYYY-MM-DD/master`) and commits the [digest template](#Digest_template).
+- The first user to contribute to a daily creates the wip master branch (`wip/YYYY-MM-DD/master`) and commits the [digest template](#digest-template).
 - After that, the user should branch of this wip master into `wip/YYYY-MM-DD/username` and commit any changes to the digest itself there.
 - Before merging the changes on the personal branch back into the `wip master`, a `pull` should be performed to include all changes merged into the `wip master`.
 - Once the digest is finished, a pull request should be created to include the `wip master` into the `master` branch.
@@ -33,7 +33,7 @@ Each digest has its own master branch, where all contributions are put together.
 - **Before merging the changes into the digest's master branch it is important to `pull` to get all changes committed by other users while you were working on your branch.**
 - Merge your changes into the **digest master** (**NOT** the repository's `master`)
 
-#### <a name="digest_template"></a>Digest template
+#### <a name="digest-template"></a>Digest template
 
 ** Add the end of the template is a link list that allows to use links easily without having to type the entire URL each time. Copy that list to any markdown file to make it available there.**  
 Usage example:
