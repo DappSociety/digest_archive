@@ -5,10 +5,10 @@ date:   2018-02-09 20:00:00
 categories: daily
 ---
 ## If Nothing Else, Read This
-
+Dapp Ideas saw a ton of action today! Great work! tVoid did a ton of work on this daily which was awesome! We could still use more help!
 
 ## Daily Intro
-
+Lets all try to maintain momentum going into the weekend! Overall the community was a little quieter today which is understandable.  Lets start to move towards taking action on the conversations developing in Dapp Ideas!  Not much in this digest yet so feel free to add to it and contribute. More soon!
 
 ## Current Stats
 
@@ -31,10 +31,10 @@ categories: daily
 ## Community Projects
 
 #### Logo Concept
-
+NA
 
 #### Website Theme
-
+NA
 
 ### Ballot Box
 We have a new poll by @ericbrown99 about [digests and if you read them](https://dappsociety.slack.com/archives/C94SG4VK7/p1518182354000434)
@@ -78,3 +78,4 @@ Tomas Roaldsnes idea about a time locked savings game is getting traction and qu
 The purpose of this section is to provide full transparency to you, the reader, who's words you are reading. If you add a contribution to this file, please list yourself in the credits below.
 
 * __@tVoid__ - Some initial contributions to the digest
+* __@Ericbrown99__ - Some contributions and edits
