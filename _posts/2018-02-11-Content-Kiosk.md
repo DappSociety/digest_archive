@@ -11,6 +11,7 @@ Hi everyone! This is our first Content Kiosk weekly report! This is a digest of 
 The article briefly outlines how cryptocurrency alters the way our world operates and brings up important questions about how cryptocurrency will change societies. For example: 
 
 >	"Who has the right to know about our personal productivity and speculation?"
+>
 >	"What could happen with provincial taxation in an age of global financial anonymity?"
 
 Top Highlight: 
