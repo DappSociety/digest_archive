@@ -84,7 +84,7 @@ Generally:
 
 
 ## Incentive Models
-We briefly touched on incentive design for the DappSociety community and for its side projects: whether they should all be tokenized, share the same token or utilize different tokens, and how to develop a bounty and reputation system. This still needs to be significantly worked out
+We briefly touched on incentive design for the DappSociety community and for its side projects: whether they should all be tokenized, share the same token or utilize different tokens, and how to develop a bounty and reputation system. This still needs to be significantly worked out.
 
 ## Contributions to this Summary
 __@EricBrown99__: Content digestion and editing of first draft  
