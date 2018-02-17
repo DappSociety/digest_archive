@@ -41,8 +41,8 @@ Overall everyone seemed to be on the same page about our visions for DappSociety
 **Livery614:**
 > "My personal vision & goal is to learn more about blockchain and dapp ecosystem, then be part of at least one project (from ideas to implementation of product)
 My perspective of DappSociety's vision is to create a autonomous and self organizing community that 
-1) facilitates learning regarding blockchain and dapps
-2) as a team(s) work on multiple projects with vision of launching one or more products"
+> 1) facilitates learning regarding blockchain and dapps
+> 2) as a team(s) work on multiple projects with vision of launching one or more products"
 
 
 
