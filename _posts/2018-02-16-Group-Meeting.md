@@ -21,3 +21,7 @@ Ownership and governance were the hottest topics. While still ideas we need to p
 - Appoint working group to research and implement governance models (learning project)
 - Appoint working group to research and implement bounty incentive models (learning project)
 
+## Contributions to this Summary
+__@EricBrown99__: Content digestion and editing of first draft
+__@KyX__: Execuitve Summary
+__@BlockchainBud__: Agenda
