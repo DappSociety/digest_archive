@@ -5,5 +5,6 @@ Members discussed ownership, governance, vision, and goals. Takeaways resulted i
 
 Ownership and governance were the hottest topics. 
 
-> KyX: 
+> KyX:
+>
 > From my own observation, it appeared to me that people were in favor of not guarding ideas if posted within the DS  ecosystem. Governance being accepted as a large project that might align itself with a bounty DApp created by DS members.
