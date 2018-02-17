@@ -45,6 +45,11 @@ My perspective of DappSociety's vision is to create a autonomous and self organi
 > 2) as a team(s) work on multiple projects with vision of launching one or more products"
 
 
+We then decented slightly into the discussion about how someone who initially brings a project to the organization should proceed and how DappSociety should treat their ideas. We discussed many issues such as trust and ownership of projects which are presented, and after much discussion eventually decided that an idea itself can't necessarily be protected.  When presenting an Idea to DappSociety, its understood that it is then part of our open source community.  That being said, we will develop a *Code of Conduct* which outlines appropriate behavior within DappSociety to help protect the work and ideas of projects which are presently being worked on. We don't want to prevent "helpful/beneficial" hard forks but would like to prevent prevent malicious actors. 
+
+## 1-3-5 Year Goals
+
+
 
 ## Contributions to this Summary
 __@EricBrown99__: Content digestion and editing of first draft  
