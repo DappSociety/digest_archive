@@ -49,6 +49,35 @@ We then decented slightly into the discussion about how someone who initially br
 
 ## 1-3-5 Year Goals
 
+As a reminder, it is human nature to over predict what we can do in 1 year, but we under predict what we can achieve in 3 years!
+
+Our goals are ambitious, but achievable :)
+
+Generally:
+**BlockchainBud:**
+>"If we produce projects, material comes out of that
+If we produce material, the community expands
+If the community expands, we produce more projects"
+
+### Year 1:
+
+* Produced content which benefits the blockchain community
+* Created a environment which fosters learning and development of skills
+* Educate ourselves and others on decentralized blockchain technologies
+* Medium page with 5-10 articles published
+* Several active project teams
+
+### Year 3:
+
+* Worldwide workshops
+* Developed learning platform and resource database
+* Publish a book
+
+
+
+### Year 5:
+
+* 
 
 
 ## Contributions to this Summary
