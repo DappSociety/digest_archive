@@ -55,9 +55,9 @@ Our goals are ambitious, but achievable :)
 
 Generally:
 **BlockchainBud:**
->"If we produce projects, material comes out of that
-If we produce material, the community expands
-If the community expands, we produce more projects"
+>"If we produce projects, material comes out of that  
+> If we produce material, the community expands  
+> If the community expands, we produce more projects"
 
 ### Year 1:
 
@@ -66,6 +66,9 @@ If the community expands, we produce more projects"
 * Educate ourselves and others on decentralized blockchain technologies
 * Medium page with 5-10 articles published
 * Several active project teams
+* Actively partnering with other large initiatives (Such as reaching out to ConsenSys if we use the StandardBounties interface for our token rewards)
+* 
+ 
 
 ### Year 3:
 
@@ -77,8 +80,11 @@ If the community expands, we produce more projects"
 
 ### Year 5:
 
-* 
+* Become a well known consulting group for decentralized systems and blockchain technology
 
+
+## Incentive Models
+We briefly touched on incentive design for the DappSociety community and for its side projects: whether they should all be tokenized, share the same token or utilize different tokens, and how to develop a bounty and reputation system. This still needs to be significantly worked out
 
 ## Contributions to this Summary
 __@EricBrown99__: Content digestion and editing of first draft  
